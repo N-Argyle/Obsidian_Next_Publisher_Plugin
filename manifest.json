@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-next-publisher",
+	"name": "Next Publisher",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Plugin to sync/publish data to an Obsidian-Next-Publisher server",
+	"author": "Nick Argyle",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}

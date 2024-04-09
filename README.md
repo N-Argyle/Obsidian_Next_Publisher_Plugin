@@ -24,3 +24,6 @@ To install the plugin, follow these steps:
 Once set up, with a note active and in edit mode, open the command palette and choose `Next Publisher: Publish`.
 
 Individual document passwords are encrypted locally, using your Master Password as the key.
+
+## Demo of the server
+Go here [https://obsidian-next-publisher.vercel.app/docs/xFjyN4H5fI], use `test` as the password.
